@@ -9,6 +9,7 @@
 ## Game-Art/Objects/Wheelchair.png -  made by team or specifically for game
 ## Game-Art/Weapons - all art for weapons 
 ## Game-Art/Weapons/PixelAKAndM4 (1).png - made by [SMStudios on itch.io](https://simon-develop.itch.io)
+## Game-Art/Weapons/Shotgun (1).png - made by [SMStudios on itch.io](https://simon-develop.itch.io)
   ## Game-Art/Backgrounds - all backgrounds used for game
    ### Game-Art/Backgrounds/Lab_Background.png - made by [MOMONGA on itch.io](https://itch.io/profile/momongaa)
   ### Game-Art/Backgrounds/Lab.zip - made by [HungryJapaneseStudents on itch.io](https://hungryjapanesestudents.itch.io)
@@ -23,7 +24,7 @@
 
  
   
-### Game-art\Character-Art\Player - all art for the playable character contains the following files
+### Game-Art/Character-Art/Player - all art for the playable character contains the following files
         
         made by team or specifically for game
         Attack - all art for the attack motion for the playable character 
