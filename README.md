@@ -7,7 +7,8 @@
   ### Lab_Background.png - made by [MOMONGA on itch.io](https://itch.io/profile/momongaa)
   ### Lab.zip - made by [HungryJapaneseStudents on itch.io](https://hungryjapanesestudents.itch.io)
   ## Character-Art - all character art for the game contains the following files
-      Player - all art for the playable character contains the following files  
+  ### Player - all art for the playable character contains the following files
+        
         made by team or specifically for game
         Attack - all art for the attack motion for the playable character 
         Idle - all art for the idle motion for the playable character]
