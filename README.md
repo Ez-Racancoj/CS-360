@@ -18,7 +18,7 @@
 ## Game-Art/Character-Art/Enemies/Doctor (1).zip - made by [Maranza on itch.io](https://maranza.itch.io)
 ## Game-Art/Character-Art/Enemies/Nurse (1).zip - made by [Maranza on itch.io](https://maranza.itch.io)
 ## Game-Art/Character-Art/Enemies/Pacient (1).zip - made by [Maranza on itch.io](https://maranza.itch.io)
-## GGame-Art/Character-Art/Enemies/bloodSkeletonBase (1).png - made by [MoikMellah on opengameart.org](https://opengameart.org/content/mv-platformer-skeleton)
+## Game-Art/Character-Art/Enemies/bloodSkeletonBase (1).png - made by [MoikMellah on opengameart.org](https://opengameart.org/content/mv-platformer-skeleton)
 ## Game-Art/Character-Art/Enemies/skeletonBase (1).png - made by [MoikMellah on opengameart.org](https://opengameart.org/content/mv-platformer-skeleton)
 
 
