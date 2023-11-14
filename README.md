@@ -14,7 +14,7 @@
 ## Game-Art/Backgrounds/Lab_Background.png - made by [MOMONGA on itch.io](https://itch.io/profile/momongaa)
 ## Game-Art/Backgrounds/Lab.zip - made by [HungryJapaneseStudents on itch.io](https://hungryjapanesestudents.itch.io)
 ## Game-Art/Character-Art - all character art for the game contains
-##Game-Art/Character-Art/Enemies - all enemies used in game
+## Game-Art/Character-Art/Enemies - all enemies used in game
 ## Game-Art/Character-Art/Enemies/Doctor (1).zip - made by [Maranza on itch.io](https://maranza.itch.io)
 ## Game-Art/Character-Art/Enemies/Nurse (1).zip - made by [Maranza on itch.io](https://maranza.itch.io)
 ## Game-Art/Character-Art/Enemies/Pacient (1).zip - made by [Maranza on itch.io](https://maranza.itch.io)
